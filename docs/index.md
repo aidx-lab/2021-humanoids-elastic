@@ -30,7 +30,7 @@ Cite this paper as:
     @inproceedings{Tenhumberg2021,
         author = {Tenhumberg, Johannes and B{\"a}uml, Berthold},
         title = {Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning},
-        booktitle = {IEEE-RAS International Conference on Humanoid Robots (Humanoids)},,
+        booktitle = {IEEE-RAS International Conference on Humanoid Robots (Humanoids)},
         year = 2021,
     }
 
