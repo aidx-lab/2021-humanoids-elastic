@@ -4,7 +4,7 @@ layout: page
 title: Dataset
 usemathjax: true
 ---
-[Click here](../dataset/measurements.csv.zip) to download the dataset.
+[Click here](../assets/dataset/measurements.csv.zip) to download the dataset.
 
 ___
 
