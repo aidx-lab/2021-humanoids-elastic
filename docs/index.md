@@ -12,6 +12,7 @@ display: block;
 margin-left: auto;
 margin-right: auto"}
 *Kinematic tree structure of the humanoid Agile Justin, showing its 20 degrees of freedom (red) and the mass model used for calibration (blue).*
+
 # Abstract
 ---
 High absolute accuracy is an essential prerequisite for a humanoid robot to autonomously and robustly perform manipulation tasks while avoiding obstacles. 
@@ -22,3 +23,15 @@ The calibration is formulated as a combined least-squares problem with priors an
 The absolute position error is massively reduced from 21mm to 3.1mm on average in the whole workspace. Using this complex and implicit kinematic model in motion planning is challenging. 
 We show that for optimization-based path planning, integrating the iterative solution of the implicit model into the optimization loop leads to an elegant and highly efficient solution. 
 For mildly elastic robots like Agile Justin, there is no performance impact, and even for a simulated highly flexible robots with 20 times higher elasticities, the runtime increases by only 30%.
+
+
+Cite this paper as:
+
+    @inproceedings{Tenhumberg2021,
+        author = {Tenhumberg, Johannes and B{\"a}uml, Berthold},
+        title = {Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning},
+        booktitle = {IEEE-RAS International Conference on Humanoid Robots (Humanoids)},,
+        year = 2021,
+    }
+
+[arxiv](https://arxiv.org/pdf/2311.08333)
