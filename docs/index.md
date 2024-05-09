@@ -3,11 +3,13 @@ layout: page
 title: 
 ---
 
-This site accompanies the paper [Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning](https://ieeexplore.ieee.org/abstract/document/9555793) by
-[Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ&hl=en) and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ).
+This website accompanies the paper \\
+[Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning](https://ieeexplore.ieee.org/abstract/document/9555793) \\
+by [Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ&hl=en) and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ).
 
+---
 ![mass model](/assets/imgs/strich_justin.jpg){:.this 
-style="width: 500px; 
+style="width: 300px; 
 display: block;
 margin-left: auto;
 margin-right: auto"}
@@ -24,7 +26,7 @@ The absolute position error is massively reduced from 21mm to 3.1mm on average i
 We show that for optimization-based path planning, integrating the iterative solution of the implicit model into the optimization loop leads to an elegant and highly efficient solution. 
 For mildly elastic robots like Agile Justin, there is no performance impact, and even for a simulated highly flexible robots with 20 times higher elasticities, the runtime increases by only 30%.
 
-
+---
 Cite this paper as:
 
     @inproceedings{Tenhumberg2021,
