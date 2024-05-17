@@ -12,10 +12,15 @@ header_pages:
   - _pages/methods.md
   - _pages/results.md
   - _pages/dataset.md
+  - _pages/lab.md
+
 
 include:
     - _pages
     
+plugins:
+  - jekyll-redirect-from
+
 exclude: 
     - .gitignore
     - Gemfile
