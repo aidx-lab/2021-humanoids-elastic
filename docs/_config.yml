@@ -12,7 +12,7 @@ header_pages:
   - _pages/methods.md
   - _pages/results.md
   - _pages/dataset.md
-  - _pages/lab.md
+  - _pages/aidx-lab.md
 
 
 include:
