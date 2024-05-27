@@ -12,7 +12,7 @@ header_pages:
   - _pages/methods.md
   - _pages/results.md
   - _pages/dataset.md
-  - -pages/related-work.md
+  - _pages/related-work.md
   - _pages/aidx-lab.md
 
 

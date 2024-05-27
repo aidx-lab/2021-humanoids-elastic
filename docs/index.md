@@ -7,8 +7,7 @@ This site complements the paper
 [**Calibration of an Elastic Humanoid Upper Body and Efficient Compensation for Motion Planning**](https://ieeexplore.ieee.org/abstract/document/9555793) by
 [Johannes Tenhumberg\*](https://scholar.google.com/citations?user=2RZuYZMAAAAJ) and 
 [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) presented at the 
-_2021 IEEE-RAS International Conference on Humanoid Robots_ 
-in Munich, Germany.
+_2021 IEEE-RAS International Conference on Humanoid Robots_ in Munich, Germany.
 
 ---
 ![mass model](/assets/imgs/strich_justin.jpg){:.this 
@@ -39,4 +38,4 @@ Cite this paper as:
         year = 2021,
     }
 
-[arxiv](https://arxiv.org/org/2311.08333)
+[arxiv](https://arxiv.org/abs/2311.08333)
